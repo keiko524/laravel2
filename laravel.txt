@@ -1,0 +1,9 @@
+1,ORM
+2,Eloquent
+3,モデル
+4,Create
+5,Read
+7,Update
+7,.env
+8,マイグレーション
+9,シーディング
